@@ -1,0 +1,5 @@
+re-sort maildir directory by renaming file to unix timestamp of Date
+header.
+
+So far ugly hack. Not checked against standard (filenames etc..), but
+works.
